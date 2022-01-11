@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">A Web Developer fascinated by the Technological Revolution, with a desire to contribute towards it.</h3>
 
-- 🔭 I’m currently working on [ChatCord](https://github.com/Dr-Apex/ChatCord)
+- 🔭 I’m currently working on [CrowdCoin](https://github.com/Dr-Apex/ChatCord)
 
-- 🌱 I’m currently learning **JAMstack**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dr-Apex](https://github.com/Dr-Apex)
 
