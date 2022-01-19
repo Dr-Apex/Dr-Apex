@@ -7,7 +7,7 @@
 - 📝 I write articles on [https://webx.hashnode.dev](https://webx.hashnode.dev)
 - 💬 Ask me about **React, Next, MongoDB, Node**
 - 📫 How to reach me **mahapatraaayush@gmail.com**
-- ⚡ Fun fact **Spiders are the only web developers that are happy to find bugs 😂**
+- ⚡ Fun fact: **Spiders are the only web developers that are happy to find bugs 😂**
 
 <!-- -------------------------------------------- -->
 
@@ -29,27 +29,29 @@
 <!-- -------------------------------------------- -->
 
 ## Languages and Tools:
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Next.js-242B2E?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![](https://img.shields.io/badge/Web3-1B98F5?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![](https://img.shields.io/badge/Solidity-8D3DAF?style=for-the-badge&logo=solidity&logoColor=white)
+![](https://img.shields.io/badge/React-23C4ED?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express-35BDD0?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-1FAA59?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Redux-8D3DAF?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/SocketIO-758283?style=for-the-badge&logo=socketdotio&logoColor=white)
+![](https://img.shields.io/badge/Jest-E03B8B?style=for-the-badge&logo=jest&logoColor=white)
+![](https://img.shields.io/badge/Firebase-BF3325?style=for-the-badge&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/AdobeXD-6A1B4D?style=for-the-badge&logo=adobexd&logoColor=white)
+![](https://img.shields.io/badge/Figma-%2320C4CB.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
 <!-- -------------------------------------------- -->
 
 
-| Now Playing 🎧  | Jokes |
+| Now Playing 🎧  | Jokes 😂 |
 | ------------- | ------------- |
 | [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/smknmclpuhq6cl2331b88yd9y)  | <img src="https://readme-jokes.vercel.app/api?bgColor=%230D0D0D&borderColor=%238D3DAF&qColor=%23CAD5E2&aColor=%23CAD5E2&textColor=%23CAD5E2&codeColor=%23CAD5E2" alt="Jokes Card">  |
 
