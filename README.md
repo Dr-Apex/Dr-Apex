@@ -53,7 +53,7 @@
 
 | Now Playing 🎧  | Jokes 😂 |
 | ------------- | ------------- |
-| [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/smknmclpuhq6cl2331b88yd9y)  | <img src="https://readme-jokes.vercel.app/api?bgColor=%230D0D0D&borderColor=%238D3DAF&qColor=%23CAD5E2&aColor=%23CAD5E2&textColor=%23CAD5E2&codeColor=%23CAD5E2" alt="Jokes Card">  |
+| [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/)  | <img src="https://readme-jokes.vercel.app/api?bgColor=%230D0D0D&borderColor=%238D3DAF&qColor=%23CAD5E2&aColor=%23CAD5E2&textColor=%23CAD5E2&codeColor=%23CAD5E2" alt="Jokes Card">  |
 
 <!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 <img width="843em" src="https://activity-graph.herokuapp.com/graph?username=dr-apex&point=242B2E&line=8D3DAF&hide_title=false&bg_color=0D0D0D&color=CAD5E2">
