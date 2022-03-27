@@ -1,17 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Aayush+Mahapatra's+GitHub+Profile)](https://git.io/typing-svg)
+# Welcome To My GitHub Profile:
 
 > A Web Developer fascinated by the Technological Revolution, with a desire to contribute towards it.
 
 - 🔭 I’m currently working on [CrowdCoin](https://github.com/Dr-Apex/CrowdCoin)
 - 👨‍💻 All of my projects are available at [https://github.com/Dr-Apex](https://github.com/Dr-Apex)
 - 📝 I write articles on [https://webx.hashnode.dev](https://webx.hashnode.dev)
-- 💬 Ask me about **React, Next, MongoDB, Node**
+- 💬 Ask me about **JavaScript & Blockchain**
 - 📫 How to reach me **mahapatraaayush@gmail.com**
 - ⚡ Fun fact: **Spiders are the only web developers that are happy to find bugs 😂**
 
 <!-- -------------------------------------------- -->
 
-## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/aayush-mahapatra" target="blank" >
     <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
