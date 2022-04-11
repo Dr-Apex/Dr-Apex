@@ -1,8 +1,8 @@
-# Welcome To My GitHub Profile:
+# Hi, I'm Aayush Mahapatra:
 
 > A Web Developer fascinated by the Technological Revolution, with a desire to contribute towards it.
 
-- 🔭 I’m currently working on [CrowdCoin](https://github.com/Dr-Apex/CrowdCoin)
+- 🔭 I’m currently working as a UI Developer at [Spheron Protocol](https://spheron.network/)
 - 👨‍💻 All of my projects are available at [https://github.com/Dr-Apex](https://github.com/Dr-Apex)
 - 📝 I write articles on [https://webx.hashnode.dev](https://webx.hashnode.dev)
 - 💬 Ask me about **JavaScript & Blockchain**
