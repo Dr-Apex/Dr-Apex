@@ -29,7 +29,8 @@
 <!-- -------------------------------------------- -->
 
 ## Languages and Tools:
-![](https://img.shields.io/badge/Next.js-242B2E?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3944F7?style=for-the-badge&logo=typescript&logoColor=black)
+![](https://img.shields.io/badge/Next.js-242B2E?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Web3-1B98F5?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![](https://img.shields.io/badge/Solidity-8D3DAF?style=for-the-badge&logo=solidity&logoColor=white)
 ![](https://img.shields.io/badge/React-23C4ED?style=for-the-badge&logo=react&logoColor=white)
