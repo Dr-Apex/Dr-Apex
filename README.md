@@ -1,6 +1,6 @@
 # Hi, I'm Aayush Mahapatra:
 
-> A Web Developer fascinated by the Technological Revolution, with a desire to contribute towards it.
+> JavaScript Developer fascinated by the Technological Revolution, with a desire to contribute towards it.
 
 - 🔭 I’m currently working as a UI Developer at [Spheron Protocol](https://spheron.network/)
 - 👨‍💻 All of my projects are available at [https://github.com/Dr-Apex](https://github.com/Dr-Apex)
