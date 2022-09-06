@@ -3,7 +3,7 @@
 > JavaScript Developer fascinated by the Technological Revolution, with a desire to contribute towards it.
 
 - 🔭 I’m currently working as a UI Developer at [Spheron Protocol](https://spheron.network/)
-- 👨‍💻 All of my projects are available at [https://github.com/Dr-Apex](https://github.com/Dr-Apex)
+- 👨‍💻 All of my projects are available at [https://github.com/Dr-Apex](https://github.com/aayushmahapatra)
 - 📝 I write articles on [https://webx.hashnode.dev](https://webx.hashnode.dev)
 - 💬 Ask me about **JavaScript & Blockchain**
 - 📫 How to reach me **mahapatraaayush@gmail.com**
@@ -61,4 +61,4 @@
 <!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 <img width="843em" src="https://activity-graph.herokuapp.com/graph?username=aayushmahapatra&point=242B2E&line=8D3DAF&hide_title=false&bg_color=0D0D0D&color=CAD5E2">
 
-<img width="843em" src="https://imgs.developpaper.com/imgs/1176636153-e12a98acd115c817_articlex.gif">
+<img width="100%" src="https://imgs.developpaper.com/imgs/1176636153-e12a98acd115c817_articlex.gif">
