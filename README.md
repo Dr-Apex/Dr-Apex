@@ -61,4 +61,4 @@
 <!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 <img width="843em" src="https://activity-graph.herokuapp.com/graph?username=aayushmahapatra&point=242B2E&line=8D3DAF&hide_title=false&bg_color=0D0D0D&color=CAD5E2">
 
-<img width="100%" src="https://imgs.developpaper.com/imgs/1176636153-e12a98acd115c817_articlex.gif">
+<img width="100%" src="https://i0.wp.com/windowscustomization.com/wp-content/uploads/2019/06/Cyberpunk-2077-Audio-Responsive.gif">
