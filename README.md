@@ -2,10 +2,11 @@
 
 > JavaScript Developer fascinated by the Technological Revolution, with a desire to contribute towards it.
 
+- 🛠️ Building No-Code UI tool for web3 community - [Buidlfy](https://buidlfy.com/)
 - 🔭 I’m currently working as a Web3 Developer at [Spheron Protocol](https://spheron.network/)
 - 👨‍💻 All of my projects are available at [@aayushmahapatra](https://github.com/aayushmahapatra)
 - 📝 I write articles on [https://webx.hashnode.dev](https://webx.hashnode.dev)
-- 💬 Ask me about **JavaScript & Blockchain**
+- 💬 Ask me about **TypeScript & Blockchain**
 - 📫 How to reach me **mahapatraaayush@gmail.com**
 - ⚡ Fun fact: **Spiders are the only web developers that are happy to find bugs 😂**
 
@@ -58,5 +59,4 @@
 | ------------- | ------------- |
 | [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/)  | <img src="https://readme-jokes.vercel.app/api?bgColor=%230D0D0D&borderColor=%238D3DAF&qColor=%23CAD5E2&aColor=%23CAD5E2&textColor=%23CAD5E2&codeColor=%23CAD5E2" alt="Jokes Card">  |
 
-<!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
-<img width="843em" src="https://activity-graph.herokuapp.com/graph?username=aayushmahapatra&point=242B2E&line=8D3DAF&hide_title=false&bg_color=0D0D0D&color=CAD5E2">
+<!-- -------------------------------------------- -->
