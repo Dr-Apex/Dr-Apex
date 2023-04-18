@@ -35,6 +35,7 @@
 ![](https://img.shields.io/badge/Web3-1B98F5?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![](https://img.shields.io/badge/Solidity-8D3DAF?style=for-the-badge&logo=solidity&logoColor=white)
 ![](https://img.shields.io/badge/React-23C4ED?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/ReactNative-03203C?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express-35BDD0?style=for-the-badge&logo=express&logoColor=white)
