@@ -1,4 +1,4 @@
-# Hi, I'm Aayush Mahapatra:
+# Hi, I'm Aayush Mahapatra
 
 > TypeScript Developer contributing to the decentralized web.
 
