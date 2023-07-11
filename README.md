@@ -1,13 +1,11 @@
 # Hi, I'm Aayush Mahapatra:
 
-> JavaScript Developer fascinated by the Technological Revolution, with a desire to contribute towards it.
+> TypeScript Developer contributing to the decentralized web.
 
-- 🛠️ Building No-Code UI tool for web3 community - [Buidlfy](https://buidlfy.com/)
-- 🔭 I’m currently working as a Web3 Developer at [Spheron Protocol](https://spheron.network/)
-- 👨‍💻 All of my projects are available at [@aayushmahapatra](https://github.com/aayushmahapatra)
+- 🛠️ Building awesome developer tools for [Spheron Protocol](https://spheron.network/)
+- 💬 Ask me about **TypeScript, Blockchain and AI**
 - 📝 I write articles on [https://webx.hashnode.dev](https://webx.hashnode.dev)
-- 💬 Ask me about **TypeScript & Blockchain**
-- 📫 How to reach me **mahapatraaayush@gmail.com**
+- 🐦 Find me on twitter at [@mahapatraaayush](https://twitter.com/mahapatraAayush)
 - ⚡ Fun fact: **Spiders are the only web developers that are happy to find bugs 😂**
 
 <!-- -------------------------------------------- -->
