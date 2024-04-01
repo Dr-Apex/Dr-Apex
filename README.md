@@ -2,7 +2,7 @@
 
 > TypeScript Developer contributing to the decentralized web.
 
-- 🔮 Building awesome developer tools for [Spheron Network](https://spheron.network/)
+- 🔮 Building awesome developer tools for the decentralized web
 - 👻 Ask me about **TypeScript, Blockchain and AI**
 - 🦇 I write articles on [https://webx.hashnode.dev](https://webx.hashnode.dev)
 - 🍁 Find me on twitter at [@mahapatraaayush](https://twitter.com/mahapatraAayush)
